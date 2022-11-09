@@ -144,9 +144,9 @@ html {
 }
 
 .menu .author-content span {
-  font-size: 13px;
-  font-style: italic;
-  color: #fff;
+  font-size: 15px;
+  font-style: normal;
+  color: #91caff;
 }
 
 .menu .social-network {
