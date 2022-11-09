@@ -215,7 +215,7 @@ html {
 .menu {
   left: 10%;
   -webkit-overflow-scrolling: touch;
-  background-color: #7f000d;
+  background-color: #d10c20;
   box-sizing: border-box;
   height: 100vh;
   max-height: 100vh !important;
