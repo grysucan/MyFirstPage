@@ -426,6 +426,11 @@ button:hover {
   background-image: url(../images/first-white-icon.png);
 }
 
+.icon-main {
+  width: 34px;
+  height: 34px;
+}
+
 .service-item:hover .first-service-icon {
   background-image: url(../images/first-main-icon.png);
 }
